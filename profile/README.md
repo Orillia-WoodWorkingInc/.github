@@ -28,13 +28,3 @@ If you are looking for a reliable partner for your woodworking projects or need 
 ---
 > **Quality You Can Count On.**
 
----
-
-### Contact Us
-If you are looking for a reliable partner for your woodworking projects or need a custom-made solution, feel free to reach out:
-
-* **Website:** [www.owwinc.com](https://www.owwinc.com/)
-* **Phone:** 1-888-265-9997
-
----
-> **Quality You Can Count On.**
