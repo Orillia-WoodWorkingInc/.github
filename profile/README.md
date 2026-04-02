@@ -1,10 +1,16 @@
 # Orillia Woodworking Inc.
 
-![Orillia Woodworking Banner](https://www.owwinc.com/images/header_02.jpg)
-
 Welcome to the **Orillia Woodworking Inc.** development space.
 
 We are a leading supplier of high-quality, unfinished solid wood trims, mouldings, specialty flooring, and wood siding. From standard profiles to custom manufacturing, we provide high-end wood solutions for builders, renovators, and retail outlets.
+
+---
+
+### 📚 Product Resources
+
+| Catalog | Description |
+| :--- | :--- |
+| [**⬇️ Download Our Catalogue**](https://www.owwinc.com/OWWCat2011.pdf) | Explore our full range of standard and custom wood profiles. |
 
 ---
 
@@ -27,4 +33,3 @@ If you are looking for a reliable partner for your woodworking projects or need 
 
 ---
 > **Quality You Can Count On.**
-
